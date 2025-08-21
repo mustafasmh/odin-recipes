@@ -1,0 +1,12 @@
+.total {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: aqua;
+    background-color: black;
+}
+
+.heading {
+    color: black;
+    font-weight: 100;
+    background-color: aqua;
+}
