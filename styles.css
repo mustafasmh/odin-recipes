@@ -10,3 +10,15 @@
     font-weight: 100;
     background-color: aqua;
 }
+
+.page {
+    background-color: violet;
+    color: black;
+    font-family: 'Comic Sans';
+}
+
+/* * { */
+    /* color: yellow; */
+    /* background-color: blueviolet; */
+    /* font-family: Arial, Helvetica, sans-serif; */
+/* } */
